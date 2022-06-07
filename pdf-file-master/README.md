@@ -21,4 +21,4 @@
 <h4>Стек технологий:</h4>
 Java 11, Maven, Itextpdf, Junit, Logback
 
-<br> <i><b>*Дипломная работа learnup</i>
+<br> <i><b>*Дипломная работа learnUp</i>
